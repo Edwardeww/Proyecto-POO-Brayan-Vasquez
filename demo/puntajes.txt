@@ -1,6 +1,1 @@
 eduardo,4600
-eduardo,1700
-eduardo,800
-eduardo,300
-eduardo,100
-eduardo,0
